@@ -1,5 +1,6 @@
 # Domination
-![Alt text](/Domination.png "domination mokup")
+![Alt text](/domination_logo.png "domination mokup")
+
 2D Game
 
 ## Domination qu'est-ce que c'est ?
